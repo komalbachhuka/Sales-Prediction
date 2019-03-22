@@ -25,7 +25,7 @@ setwd("C:/Users/bachh/OneDrive/Desktop/Textbooks/TBANLT 593 (Phase 3)")
 #Similar to read.table but faster and more convenient. a number control like nrow, ncol etc are auto detected
 train = fread("Train.csv")
 test = fread("Test.csv")
-final = fread("final.csv")
+final = fread("final.csv") ## file I put together with the results I already had
 
 ```
 
